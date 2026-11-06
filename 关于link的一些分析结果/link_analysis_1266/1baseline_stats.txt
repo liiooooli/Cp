@@ -1,0 +1,129 @@
+INPUT_JSONL: github_link_1266.jsonl
+EXPANDED_CSV: link_analysis_1266/1repo_link_expanded.csv
+
+=== Baseline Stats ===
+total_repos = 1266
+total_link_rows = 4022
+unique_urls = 3548
+unique_domains = 1196
+unique_registered_domains = 1002
+
+=== Links per Repo ===
+p50 = 3.00
+p90 = 14.50
+p95 = 25.00
+p99 = 169.50
+
+=== Unique Domains per Repo ===
+p50 = 2.00
+p90 = 7.00
+p95 = 12.00
+p99 = 51.25
+
+=== Unique Registered Domains per Repo ===
+p50 = 2.00
+p90 = 7.00
+p95 = 11.75
+p99 = 50.00
+
+=== Top 100 Registered Domains by Occurrence ===
+github.com	656
+wikipedia.org	487
+annas-archive.org	199
+github.io	108
+twitter.com	97
+reddit.com	96
+githubusercontent.com	82
+google.com	74
+youtube.com	71
+t.me	70
+shields.io	68
+shar.es	67
+nextjs.org	38
+t.co	34
+localhost	29
+facebook.com	28
+anonfiles.com	26
+x.com	25
+gitlocalize.com	24
+vercel.app	21
+gov.ru	19
+imgur.com	19
+substack.com	18
+theguardian.com	17
+medium.com	15
+youtu.be	15
+soundcloud.com	15
+docker.com	14
+vercel.com	13
+laravel.com	13
+instagram.com	12
+haaretz.com	12
+flutter.dev	10
+expo.dev	10
+natocdn.net	10
+linkedin.com	10
+127.0.0.1	9
+tiktok.com	9
+cynthiaai.de	9
+mozilla.org	9
+gatsbyjs.org	9
+change.org	8
+reactjs.org	8
+timesofisrael.com	8
+archive.org	8
+reactnative.dev	8
+fakegov.com	8
+python.org	7
+nodejs.org	7
+discord.gg	7
+helpukr.xyz	7
+near.page	6
+ria.ru	6
+blogspot.com	6
+reuters.com	6
+aljazeera.com	6
+kaggle.com	6
+steamcommunity.com	6
+chatgpt.com	6
+stackoverflow.com	5
+lenta.ru	5
+kremlin.ru	5
+1920.in	5
+pastebin.com	5
+amazon.com	5
+techforpalestine.org	5
+ohchr.org	5
+jewishvirtuallibrary.org	5
+mondoweiss.net	5
+opensource.org	5
+travis-ci.org	5
+wikimedia.org	5
+rumble.com	5
+netlify.com	5
+nih.gov	5
+onesignal.com	5
+baidu.com	5
+cornell.edu	5
+postimg.cc	5
+thegatewaypundit.com	5
+goreportcard.com	4
+sberbank.ru	4
+microsoft.com	4
+npmjs.com	4
+ukraine.ua	4
+pp.ua	4
+huggingface.co	4
+patreon.com	4
+0.0.0.0	4
+gnu.org	4
+snapcraft.io	4
+apnews.com	4
+un.org	4
+jpost.com	4
+proton.me	4
+itch.io	4
+bit.ly	4
+readthedocs.io	4
+digitalocean.com	4
+creativecommons.org	4
